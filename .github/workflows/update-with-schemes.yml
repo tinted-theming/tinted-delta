@@ -7,6 +7,8 @@ on:
 jobs:
   build-and-commit:
     uses: "tinted-theming/home/.github/workflows/shared-build-template-and-commit-themes.yml@main"
+    permissions:
+      contents: write
     secrets:
       token: ${{ secrets.GITHUB_TOKEN }}
     with:
