@@ -1,0 +1,12 @@
+# vim: ft=gitconfig
+# Scheme System: base16
+# Scheme Name: PaperColor Dark
+# Scheme Author: Jon Leopard (http://github.com/jonleopard), based on PaperColor Theme (https://github.com/NLKNguyen/papercolor-theme)
+# Template Author: Bez Hermoso
+
+# Configures difftool "delta" to ue light or dark mode based on the variant declared by the colorscheme.
+[delta]
+    light = 
+
+
+

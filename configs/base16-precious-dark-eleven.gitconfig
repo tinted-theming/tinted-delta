@@ -1,0 +1,12 @@
+# vim: ft=gitconfig
+# Scheme System: base16
+# Scheme Name: Precious Dark Eleven
+# Scheme Author: 4lex4 &lt;4lex49@zoho.com&gt;
+# Template Author: Bez Hermoso
+
+# Configures difftool "delta" to ue light or dark mode based on the variant declared by the colorscheme.
+[delta]
+    light = 
+
+
+

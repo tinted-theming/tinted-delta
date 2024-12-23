@@ -1,0 +1,12 @@
+# vim: ft=gitconfig
+# Scheme System: base16
+# Scheme Name: Solarized Dark
+# Scheme Author: Ethan Schoonover (modified by aramisgithub)
+# Template Author: Bez Hermoso
+
+# Configures difftool "delta" to ue light or dark mode based on the variant declared by the colorscheme.
+[delta]
+    light = 
+
+
+

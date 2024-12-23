@@ -1,0 +1,12 @@
+# vim: ft=gitconfig
+# Scheme System: base16
+# Scheme Name: Nord Light
+# Scheme Author: threddast, based on fuxialexander&#39;s doom-nord-light-theme (Doom Emacs)
+# Template Author: Bez Hermoso
+
+# Configures difftool "delta" to ue light or dark mode based on the variant declared by the colorscheme.
+[delta]
+    light = true
+
+
+

@@ -1,0 +1,12 @@
+# vim: ft=gitconfig
+# Scheme System: base16
+# Scheme Name: Kanagawa
+# Scheme Author: Tommaso Laurenzi (https://github.com/rebelot)
+# Template Author: Bez Hermoso
+
+# Configures difftool "delta" to ue light or dark mode based on the variant declared by the colorscheme.
+[delta]
+    light = 
+
+
+
