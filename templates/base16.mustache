@@ -7,7 +7,4 @@
 # Configures difftool "delta" to ue light or dark mode based on the variant declared by the colorscheme.
 [delta]
     syntax-theme = "ansi"
-    light = {{ scheme-is-light-variant }}
-
-
-
+    light = {{#scheme-is-light-variant}}{{scheme-is-light-variant}}{{/scheme-is-light-variant}}{{^scheme-is-light-variant}}false{{/scheme-is-light-variant}}
