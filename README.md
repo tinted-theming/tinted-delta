@@ -9,7 +9,7 @@ For usage with [Tinty]:
 1. Add the following to `~/.config/tinted-theming/tinty/config.toml`:
 ```toml
 [[items]]
-path = "https://github.com/bezhermoso/tinted-delta"
+path = "https://github.com/tinted-theming/tinted-delta"
 name = "delta"
 themes-dir = "configs"
 hook = "cp -f %f ~/.config/tinted-theming/delta.gitconfig"
