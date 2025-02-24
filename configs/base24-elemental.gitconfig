@@ -1,0 +1,10 @@
+# vim: ft=gitconfig
+# Scheme System: base24
+# Scheme Name: Elemental
+# Scheme Author: FredHappyface (https://github.com/fredHappyface)
+# Template Author: Bez Hermoso
+
+# Configures difftool "delta" to ue light or dark mode based on the variant declared by the colorscheme.
+[delta]
+    syntax-theme = "ansi"
+    light = false
