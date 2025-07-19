@@ -6,5 +6,5 @@
 
 # Configures difftool "delta" to ue light or dark mode based on the variant declared by the colorscheme.
 [delta]
-    syntax-theme = "ansi"
+    syntax-theme = "base16-256"
     light = false
