@@ -6,7 +6,7 @@ A Tinted Theming template for [delta] with [Base16] themes
 
 For usage with [Tinty]:
 
-1. Add this line to your `.gitconig`. This assumes you have already set up [delta] as your Git pager/diff-tool under the
+1. Add this line to your `.gitconfig`. This assumes you have already set up [delta] as your Git pager/diff-tool under the
    name `delta`:
 
    ```gitconfig
